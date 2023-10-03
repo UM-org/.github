@@ -1,8 +1,8 @@
 # Ulysse.
 
-[![Organization Logo](images/log-ulysse-bg-black.png)](https://www.ulysse.media)
+[![Organization Logo](images/log-ulysse-bg-black.png){width=300px}](https://www.ulysse.media)
 
-Brief description of your organization and its mission.
+We are a friendly group of thinkers, designers & techies constantly delivering new products that can be trusted to bring your vision to life with modern, robust solutions.
 
 ## Table of Contents
 
@@ -12,8 +12,6 @@ Brief description of your organization and its mission.
   - [Getting Started](#getting-started)
 
 ## About
-
-We are a friendly group of thinkers, designers & techies constantly delivering new products that can be trusted to bring your vision to life with modern, robust solutions.
 
 - **Mission**: We provide packaged solutions and custom engagement options for brands, ONGs, startups, small to medium scale companies and other agencies looking to white label.
 - **The Culture Code**: For us, our values are more than just words. These won’t be on any test, but the come from the heart and run deep through our culture.

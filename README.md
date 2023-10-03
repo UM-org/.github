@@ -1,6 +1,6 @@
 # Ulysse.
 
-[![Organization Logo](images/log-ulysse-bg-black.png){width=300px}](https://www.ulysse.media)
+[![Organization Logo](images/log-ulysse-bg-black.png)](https://www.ulysse.media)
 
 We are a friendly group of thinkers, designers & techies constantly delivering new products that can be trusted to bring your vision to life with modern, robust solutions.
 

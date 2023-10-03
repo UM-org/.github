@@ -1,11 +1,10 @@
 {
     "name": "Ulysse Organization Expo Android CI Workflow",
     "description": "Ulysse Organization Expo Android CI starter workflow.",
+    "creator": "hassabdo",
     "iconName": "octicon rocket",
     "categories": [
-        "Expo",
-        "React-Native",
-        "Android"
+        "continuous-integration"
     ],
     "filePatterns": [
         "package.json$",
